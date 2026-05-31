@@ -1,4 +1,4 @@
-import medicare from '../assets/MediCare.png'
+import medicare from '../assets/medicare.png'
 import quiz from '../assets/quiz.png'
 import chrome from '../assets/chrome.png'
 import whiteboard from '../assets/whiteboard.png'
